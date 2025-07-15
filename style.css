@@ -1,1 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f8f2;
+  color: #333;
+}
+
+header.hero {
+  background-color: #d3e7c8;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #2b5c3d;
+}
+
+.slogan {
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #456b45;
+}
+
+section {
+  padding: 30px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+section h2 {
+  color: #2b5c3d;
+  border-bottom: 2px solid #a0c7a3;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #d3e7c8;
+  padding: 15px;
+  font-size: 0.9rem;
+  color: #333;
+}
 
