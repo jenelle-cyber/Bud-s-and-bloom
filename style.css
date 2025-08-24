@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f8f2;
+  background: White;
   color: Red;
 }
 
@@ -43,7 +43,7 @@ ul {
 
 footer {
   text-align: center;
-  background-color: #d3e7c8;
+  background-color: Green;
   padding: 15px;
   font-size: 0.9rem;
   color: Yellow;
